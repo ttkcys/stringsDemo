@@ -62,7 +62,7 @@ public class StringsDemo {
 
         String message2 = "     Today, weather is good.     ";
         //Deletes leading and trailing spaces in text.
-        System.out.println(message.trim());
+        System.out.println(message2.trim());
 
     }
 
